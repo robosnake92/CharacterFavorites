@@ -1,0 +1,7 @@
+## Interface: 100200
+## Title: Character Favorites
+## Notes: Manage character-specific favorite mounts and pets
+## SavedVariables: CharacterFavoritesDB
+## Author: YourName
+
+CharacterFavorites.lua
